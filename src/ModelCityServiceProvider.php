@@ -1,6 +1,6 @@
 <?php
 
-namespace Mhaoxyz\Base;
+namespace Mhaoxyz\Laravel\Model;
 
 use Illuminate\Support\ServiceProvider;
 

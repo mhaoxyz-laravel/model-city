@@ -1,0 +1,21 @@
+{
+    "name": "mhaoxyz/laravel-model-city",
+    "type": "library",
+    "authors": [
+        {
+            "name": "menghao",
+            "email": "mhaoxyz@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Mhaoxyz\\Laravel\\Model\\": "src/"
+        }
+    },
+    "require": {
+
+    },
+    "require-dev": {
+        "mhaoxyz/laravel-illuminate": "^5.4"
+    }
+}
